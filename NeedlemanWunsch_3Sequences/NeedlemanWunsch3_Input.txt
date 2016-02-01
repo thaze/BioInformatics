@@ -1,0 +1,9 @@
+What is the first sequence?
+GAA
+What is the second sequence?
+CACC
+What is the third sequence?
+AACC
+
+
+
